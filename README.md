@@ -1,4 +1,4 @@
-### Ola! Me chamo Lucas Emanuel, estudante de Si - UFPI!
+### Olá! Me chamo Lucas Emanuel, e sou estudante de Si - UFPI!
 <div align="center">
   <a href="https://github.com/Lucaspm5">
 
