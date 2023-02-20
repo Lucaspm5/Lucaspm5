@@ -1,4 +1,5 @@
-### Olá! Me chamo Lucas Emanuel, e sou estudante de Si - UFPI!
+### Hi there! I'm Lucas Emanuel
+- Future Back-End
 <div align="center">
   <a href="https://github.com/Lucaspm5">
 
