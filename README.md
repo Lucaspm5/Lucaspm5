@@ -1,7 +1,6 @@
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:8B008B,100:4B0082">
 
-- Future Back-End
 <div align="center">
   <a href="https://github.com/Lucaspm5/Lucaspm5">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
