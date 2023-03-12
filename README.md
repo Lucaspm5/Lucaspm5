@@ -1,4 +1,12 @@
-# In study..
+```c
+int main()
+{
+    while (difftime(time(NULL), tempo_inicial) < tempo_limite) {
+        printf("Se esforçe!\n");
+        contador++;
+    }
+}
+```
 <table width="100%">
   <tr>
   <th>Languages</th>
