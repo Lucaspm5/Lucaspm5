@@ -1,7 +1,8 @@
 ```c
 int main()
 {
-    while (difftime(time(NULL), tempo_inicial) < tempo_limite) {
+    while (difftime(time(NULL), tempo_inicial) < tempo_limite) 
+    {
         printf("Se esforçe!\n");
         contador++;
     }
