@@ -19,9 +19,10 @@
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)
 ![Visits](https://komarev.com/ghpvc/?username=Lucaspm5)
 
+<br><p align="center">
 <div style="display:flex;"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaspm5&theme=dark&hide_border=true" alt="Status Github" width="56%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&layout=compact&theme=dark&hide_border=true" alt="Status Github" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaspm5&theme=white&hide_border=true" alt="Status Github" width="59%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&layout=compact&theme=white&hide_border=true" alt="Status Github" width="40%">
 </div>
 
   </td>
