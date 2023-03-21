@@ -19,16 +19,11 @@
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)
 ![Visits](https://komarev.com/ghpvc/?username=Lucaspm5)
 
-</p>
-  </td>
-  <tr>
-  <td width = "50%">
-  <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&layout=compact&show_icons=true&theme=dracula&locale=en" alt="Lucaspm5" /></p>
-  </td>
-  <td width = "50%">
-  <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&show_icons=true&locale=en&theme=dracula" alt="Lucaspm5" /></p>
+<div style="display:flex;"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaspm5&theme=dark&hide_border=true" alt="Status Github" width="56%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&layout=compact&theme=dark&hide_border=true" alt="Status Github" width="40%">
+</div>
+
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
