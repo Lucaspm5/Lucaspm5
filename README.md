@@ -17,7 +17,7 @@
   </td>
   <td width="50%">
     
-<br><p align="center"><br>Welcome!<br>
+<br><p align="center"><br>From student to student!<br><br>
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)
 ![Visits](https://komarev.com/ghpvc/?username=Lucaspm5)
 </p>
