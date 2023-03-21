@@ -19,11 +19,21 @@
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/1/#inbox)
 ![Visits](https://komarev.com/ghpvc/?username=Lucaspm5)
 
-<br><p align="center">
-<div style="display:flex;"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaspm5&theme=white&hide_border=true" alt="Status Github" width="59%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&layout=compact&theme=white&hide_border=true" alt="Status Github" width="40%">
-</div>
+</p>
+  </td>
+  <tr>
+  <td width = "50%">
+  <br>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&layout=compact&langs_count=7&bg_color=0C0101&text_color=FF0000&title_color=FF0000&locale=pt-br"/>
+  </td>
+  <td width = "50%">
+  <br>
+  <p align = "center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&show_icons=true&bg_color=0C0101&text_color=FF0000&title_color=FF0000&include_all_commits=true&count_private=true&locale=pt-br"/>
+  </td>
+  <tr>
+  <tr>
+  <td colspan=2 width ="50%">
+  <br>
 
   </td>
   <tr>
