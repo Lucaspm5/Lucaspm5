@@ -1,17 +1,5 @@
 <h1 align="center">Competitive programing?</h1>
 
-```diff
-! Lucas Emanuel
-
-> Amante da tecnologia e da programação.
-> Atualmente estudando Sistemas de Informação e aprimorando minhas habilidades em diversas linguagens, como C, C++, C# e Python. 
-> Com experiência em redes e segurança da informação, busco sempre aprender.
-
-
-```
-
-------------------------------------
-
 
 <table width="100%">
   <tr>
@@ -40,11 +28,14 @@
   <td width = "50%">
     
   <br>
-  <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaspm5&theme=dracula&hide_border=true" alt="Lucaspm5" /></p>
+  <p align = "center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucaspm5&theme=dark&hide_border=true" alt="Lucaspm5" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&show_icons=true&bg_color=282a36&text_color=bd93f9&title_color=bd93f9&include_all_commits=true&count_private=true&locale=pt-br&theme=dracula" alt="Lucaspm5" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&show_icons=true&bg_color=1a1a1a&text_color=fff&title_color=fff&include_all_commits=true&count_private=true&locale=pt-br&theme=dark" alt="Lucaspm5" /></p>
+
+
+
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
