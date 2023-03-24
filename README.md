@@ -1,7 +1,8 @@
 # Olá e bem-vindo ao meu perfil! Estou à disposição para ajudar.
 <img src="https://user-images.githubusercontent.com/125845662/227516034-1b59d4fb-9fb1-46e6-9437-ab5efff311ce.png" width="100" height="100">
+
 ### - "Sou um programador dedicado a participar de competições de programação. É uma forma emocionante de me desafiar e melhorar minhas habilidades em algoritmos e estruturas de dados."
--------
+___________________
 
 ## Plataformas de estudos -
 
