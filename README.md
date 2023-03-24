@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/125845662/227512201-d07125bf-6877-4757-ad45-7848afcec6fe.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/125845662/227513793-70825e36-565f-411a-852e-98dc52de5214.png" width="100" height="100">
 
 ### - "Sempre buscando aprimorar minhas habilidades em algoritmos e estruturas de dados, um participante de competições de programação"
 
