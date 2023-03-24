@@ -7,7 +7,7 @@
 
 * <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" width=150px/></a>
 
-* <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707"><img src="https://user-images.githubusercontent.com/125845662/227518393-9d78124d-fa45-41a1-bd65-75e1833de518.png" width=150px/></a>
+* <a href="https://www.hackerrank.com/"><img src="https://user-images.githubusercontent.com/125845662/227518393-9d78124d-fa45-41a1-bd65-75e1833de518.png" width=150px/></a>
 ## Ferramentas -
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="css3" width="40" height="40"/>
