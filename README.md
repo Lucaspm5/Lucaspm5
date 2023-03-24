@@ -10,6 +10,8 @@ ___________________
 
 * <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707"><img src="https://user-images.githubusercontent.com/125845662/227518393-9d78124d-fa45-41a1-bd65-75e1833de518.png" width=150px/></a>
 ## Ferramentas -
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucaspm5" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Lucaspm5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="docker" width="40" height="40"/>
+  </p>
