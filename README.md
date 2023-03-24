@@ -1,6 +1,19 @@
+<h1 align="center">Hello!</h1>
+
+```diff
+! Lucas Emanuel
+
+> Amante da tecnologia e da programação.
+> Atualmente estudando Sistemas de Informação e aprimorando minhas habilidades em diversas linguagens, como C, C++, C# e Python. 
+> Com experiência em redes e segurança da informação, busco sempre aprender e desenvolver soluções inovadoras.
+
+
+```
+
+------------------------------------
+![coding](https://user-images.githubusercontent.com/98411093/217659889-87f3e0b7-6aa1-4121-a092-c108a5777070.gif)
 ![coding](https://user-images.githubusercontent.com/98411093/217659778-2589fffd-3f3d-4392-88fb-0a8b68252d03.gif)
-<img src="https://user-images.githubusercontent.com/125845662/227400916-b5078e35-d43c-4566-9609-73d90e6a96f8.gif" alt="descrição da imagem" width="30%" />
-## Competitive programming ?
+
 
 <table width="100%">
   <tr>
