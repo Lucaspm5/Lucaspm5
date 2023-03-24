@@ -1,4 +1,4 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">competitive programing?</h1>
 
 ```diff
 ! Lucas Emanuel
@@ -11,8 +11,6 @@
 ```
 
 ------------------------------------
-![coding](https://user-images.githubusercontent.com/98411093/217659889-87f3e0b7-6aa1-4121-a092-c108a5777070.gif)
-![coding](https://user-images.githubusercontent.com/98411093/217659778-2589fffd-3f3d-4392-88fb-0a8b68252d03.gif)
 
 
 <table width="100%">
