@@ -1,5 +1,5 @@
-![coding](https://user-images.githubusercontent.com/98411093/217659889-87f3e0b7-6aa1-4121-a092-c108a5777070.gif)
-![giphy (1)](https://user-images.githubusercontent.com/125845662/227400278-7d008487-a4e5-41e2-a3ec-4816bf39fa00.gif)
+![giphy (2)](https://user-images.githubusercontent.com/125845662/227400916-b5078e35-d43c-4566-9609-73d90e6a96f8.gif)
+![giphy (2)](https://user-images.githubusercontent.com/125845662/227400916-b5078e35-d43c-4566-9609-73d90e6a96f8.gif)
 
 ## Competitive programming ?
 
