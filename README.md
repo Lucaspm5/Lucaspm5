@@ -1,6 +1,8 @@
-<img src="https://user-images.githubusercontent.com/125845662/227513793-70825e36-565f-411a-852e-98dc52de5214.png" width="100" height="100">
+# Olá e bem-vindo ao meu perfil! Estou à disposição para ajudar.
+<img src="https://user-images.githubusercontent.com/125845662/227516034-1b59d4fb-9fb1-46e6-9437-ab5efff311ce.png" width="100" height="100">
 
-### - "Sempre buscando aprimorar minhas habilidades em algoritmos e estruturas de dados, um participante de competições de programação"
+### - "Sou um programador dedicado a participar de competições de programação. É uma forma emocionante de me desafiar e melhorar minhas habilidades em algoritmos e estruturas de dados."
+-------
 
 ## Plataforma de estudos:
 
@@ -8,8 +10,6 @@
 
 ## languages:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
-    <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+  <img align="center" alt="Lucaspm5" height="90" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Lucaspm5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
