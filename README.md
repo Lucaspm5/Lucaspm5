@@ -5,7 +5,7 @@
 
 > Amante da tecnologia e da programação.
 > Atualmente estudando Sistemas de Informação e aprimorando minhas habilidades em diversas linguagens, como C, C++, C# e Python. 
-> Com experiência em redes e segurança da informação, busco sempre aprender e desenvolver soluções inovadoras.
+> Com experiência em redes e segurança da informação, busco sempre aprender.
 
 
 ```
