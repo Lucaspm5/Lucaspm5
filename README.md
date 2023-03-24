@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/125845662/227400916-b5078e35-d43c-4566-9609-73d90e6a96f8.gif" alt="descrição da imagem" width="70%" />
-<img src="https://user-images.githubusercontent.com/125845662/227400916-b5078e35-d43c-4566-9609-73d90e6a96f8.gif" alt="descrição da imagem" width="70%" />
+![coding](https://user-images.githubusercontent.com/98411093/217659778-2589fffd-3f3d-4392-88fb-0a8b68252d03.gif)
+<img src="https://user-images.githubusercontent.com/125845662/227400916-b5078e35-d43c-4566-9609-73d90e6a96f8.gif" alt="descrição da imagem" width="30%" />
 ## Competitive programming ?
 
 <table width="100%">
