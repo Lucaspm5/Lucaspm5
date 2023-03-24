@@ -1,4 +1,4 @@
-<h1 align="center">competitive programing?</h1>
+<h1 align="center">Competitive programing?</h1>
 
 ```diff
 ! Lucas Emanuel
