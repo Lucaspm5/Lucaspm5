@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/125845662/227512201-d07125bf-6877-4757-ad45-7848afcec6fe.png" width="100" height="100">
+
 ### - "Sempre buscando aprimorar minhas habilidades em algoritmos e estruturas de dados, um participante de competições de programação"
 
 ## Plataforma de estudos:
@@ -11,5 +13,3 @@
   <img align="center" alt="Rafa-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
     <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
 </div>
-
-
