@@ -9,10 +9,6 @@
    <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="100" height="100">
   </a>
   
-<a href="https://github.com/Lucaspm5/CodeWars">
-  <img src="https://user-images.githubusercontent.com/125845662/227723043-5877a1ad-a1fc-463c-b76a-e247cabffe44.png" width="100" height="100">
-   </a>
-  
   <a href="https://github.com/Lucaspm5/HackerRank">
  <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="100" height="100">
      </a>
@@ -31,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="50" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="mysql logo"  />
 
 #
 
