@@ -1,3 +1,5 @@
+<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90" />
+
 # Olá e bem-vindo ao meu perfil! Estou à disposição para ajudar.
 <div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/125845662/227523338-5e127e0f-299f-4b5c-9d0c-2232d0b5d230.png" width="100" height="100">
@@ -13,4 +15,5 @@
   
 </div>
 
+<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
  
