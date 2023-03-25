@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125845662/227523338-5e127e0f-299f-4b5c-9d0c-2232d0b5d230.png" width="100" height="100">
-  <img src="https://user-images.githubusercontent.com/125845662/227523388-f3fb36c1-4b06-45ea-8c8b-8d423887a318.png" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/125845662/227523338-5e127e0f-299f-4b5c-9d0c-2232d0b5d230.png" width="50" height="50">
+   <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="100" height="100">
   <img src="https://user-images.githubusercontent.com/125845662/227723043-5877a1ad-a1fc-463c-b76a-e247cabffe44.png" width="100" height="100">
-   <img src="(https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="100" height="100">
  <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="100" height="100">
+  <img src="https://user-images.githubusercontent.com/125845662/227523338-5e127e0f-299f-4b5c-9d0c-2232d0b5d230.png" width="50" height="50">
 
 </p>
 
@@ -36,11 +36,5 @@
   </a>
 </div>
   
-<div style="display:flex;">
-  <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" width=150px/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://user-images.githubusercontent.com/125845662/227518393-9d78124d-fa45-41a1-bd65-75e1833de518.png" width=150px/></a>
-  
-</div>
-
 <img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
  
