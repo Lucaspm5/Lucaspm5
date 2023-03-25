@@ -11,7 +11,7 @@
 
 ### - "Sou um programador dedicado a participar de competições de programação. É uma forma emocionante de me desafiar e melhorar minhas habilidades em algoritmos e estruturas de dados."
 
-## Linguagens - 
+## Ferramentas - 
 
 ###
 <div align="left">
