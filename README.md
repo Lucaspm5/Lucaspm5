@@ -26,6 +26,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 
+  ______
+
+<div align="center">
+  
+<a href="https://github.com/Lucaspm5/Competitive-programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Competitive-programming&theme=dark" />
+</a>
+  
+  <a href="https://github.com/Lucaspm5/Competicoes-Maratonas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Competicoes-Maratonas&theme=dark" />
+</a>
   
 </div>
 
