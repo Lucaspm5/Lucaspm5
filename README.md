@@ -9,6 +9,11 @@
    <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="100" height="100">
   </a>
   
+  <a href="https://github.com/Lucaspm5/CodeWars">
+ <img src="https://user-images.githubusercontent.com/125845662/227748774-36838178-7650-4a46-b55f-ca3beb8cdf9e.png" width="100" height="100">
+     </a>
+
+  
   <a href="https://github.com/Lucaspm5/HackerRank">
  <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="100" height="100">
      </a>
