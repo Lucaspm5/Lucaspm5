@@ -3,16 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+perfil!)
 
 
-<p align="center">
-  
-  <img src="https://user-images.githubusercontent.com/125845662/227829823-85d8aeed-7004-4c09-aa08-21384434d209.png" width="200" height="200">
-
-  
- 
-
-</p>
-
-
 ### - Olá! Meu nome é Lucas e sou estudante de Sistemas na Universidade Federal do Piauí. Meu interesse por programação começou há alguns meses e, atualmente, pratico Programação Competitiva como um hobby. Estou sempre em busca de novos desafios e aprendizados na área de tecnologia. Se você também é um entusiasta de programação, adoraria trocar ideias e compartilhar conhecimentos!
 ## Plataformas de estudo - 
 
