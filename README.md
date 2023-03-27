@@ -13,7 +13,7 @@
 </p>
 
 
-### - "Sou um programador dedicado a participar de competições de programação. É uma forma emocionante de me desafiar e melhorar minhas habilidades em algoritmos e estruturas de dados."
+### - Olá! Meu nome é Lucas e sou estudante de Sistemas na Universidade Federal do Piauí. Meu interesse por programação começou há alguns meses e, atualmente, pratico Programação Competitiva como um hobby. Estou sempre em busca de novos desafios e aprendizados na área de tecnologia. Se você também é um entusiasta de programação, adoraria trocar ideias e compartilhar conhecimentos!
 ## Plataformas de estudo - 
 
  <a href="https://github.com/Lucaspm5/CodeWars">
