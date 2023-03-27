@@ -4,26 +4,30 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125845662/227523338-5e127e0f-299f-4b5c-9d0c-2232d0b5d230.png" width="50" height="50">
-<a href="https://github.com/Lucaspm5/URI">
-   <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="100" height="100">
-  </a>
   
-  <a href="https://github.com/Lucaspm5/CodeWars">
- <img src="https://user-images.githubusercontent.com/125845662/227748774-36838178-7650-4a46-b55f-ca3beb8cdf9e.png" width="100" height="100">
-     </a>
+  <img src="https://user-images.githubusercontent.com/125845662/227822637-bd52e256-afc5-4065-b69e-4c16e2a6e5ef.png" width="100" height="100">
 
   
-  <a href="https://github.com/Lucaspm5/HackerRank">
- <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="100" height="100">
-     </a>
-  
-  <img src="https://user-images.githubusercontent.com/125845662/227523338-5e127e0f-299f-4b5c-9d0c-2232d0b5d230.png" width="50" height="50">
+ 
 
 </p>
 
 
 ### - "Sou um programador dedicado a participar de competições de programação. É uma forma emocionante de me desafiar e melhorar minhas habilidades em algoritmos e estruturas de dados."
+## Plataformas de estudo - 
+
+<a href="https://github.com/Lucaspm5/URI">
+   <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="70" height="70">
+  </a>
+  
+  <a href="https://github.com/Lucaspm5/HackerRank">
+ <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="70" height="70">
+     </a>
+  
+  <a href="https://github.com/Lucaspm5/CodeWars">
+ <img src="https://user-images.githubusercontent.com/125845662/227748774-36838178-7650-4a46-b55f-ca3beb8cdf9e.png" width="60" height="60">
+     </a>
+
 
 ## Ferramentas - 
 
