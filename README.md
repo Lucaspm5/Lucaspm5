@@ -27,8 +27,8 @@
   <a href="https://github.com/Lucaspm5/Competitive-programming">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Competitive-programming&theme=dracula" />
   </a>
-  <a href="https://github.com/Lucaspm5/Competicoes-Maratonas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Competicoes-Maratonas&theme=dracula" style="color: #FF1493"/>
+  <a href="https://github.com/Lucaspm5/Sistemas-de-informacao">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Sistemas-de-informacao&theme=dracula" style="color: #FF1493"/>
   </a>
 </div>
   
