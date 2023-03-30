@@ -6,6 +6,10 @@
 ### - Olá! Meu nome é Lucas e sou estudante de Sistemas na Universidade Federal do Piauí. Meu interesse por programação começou há alguns meses e, atualmente, pratico Programação Competitiva como um hobby. Estou sempre em busca de novos desafios e aprendizados na área de tecnologia. Se você também é um entusiasta de programação, adoraria trocar ideias e compartilhar conhecimentos!
 ## Plataformas de estudo - 
 
+<a href="https://github.com/Lucaspm5/URI">
+   <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="60" height="60">
+  </a>
+
  <a href="https://github.com/Lucaspm5/CodeWars">
  <img src="https://user-images.githubusercontent.com/125845662/227825628-c2948b26-5ee6-4247-8532-7373c1123283.png" width="60" height="60">
      </a>
@@ -14,9 +18,6 @@
  <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="65" height="65">
      </a>
 
-<a href="https://github.com/Lucaspm5/URI">
-   <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="60" height="60">
-  </a>
   
 ## Ferramentas - 
 ### Web - 
