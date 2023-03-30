@@ -7,27 +7,33 @@
 ## Plataformas de estudo - 
 
  <a href="https://github.com/Lucaspm5/CodeWars">
- <img src="https://user-images.githubusercontent.com/125845662/227825628-c2948b26-5ee6-4247-8532-7373c1123283.png" width="70" height="70">
+ <img src="https://user-images.githubusercontent.com/125845662/227825628-c2948b26-5ee6-4247-8532-7373c1123283.png" width="60" height="60">
      </a>
 
   <a href="https://github.com/Lucaspm5/HackerRank">
- <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="75" height="75">
+ <img src="https://user-images.githubusercontent.com/125845662/227723154-19cdb4c1-14fb-4647-9203-23c0d2d90328.png" width="65" height="65">
      </a>
 
 <a href="https://github.com/Lucaspm5/URI">
-   <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="70" height="70">
+   <img src="https://user-images.githubusercontent.com/125845662/227723123-e9575166-f805-4811-ba00-ac22ee891d37.png" width="60" height="60">
   </a>
   
 ## Ferramentas - 
+### Web - 
 
-###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="50" width="52" alt="mysql logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="55" width="50" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="52" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="52" alt="javascript logo"  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="42" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="42" alt="mysql logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="45" width="38" alt="mysql logo"  />
+
+
+###  Competitive programming - 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="42" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="42" alt="javascript logo"  />
+
 #
+
 
 <div align="center">
   <a href="https://github.com/Lucaspm5/Competitive-programming">
