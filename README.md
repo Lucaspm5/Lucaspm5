@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/Lucaspm5/Competitive-programming">
+  <a href="https://github.com/Lucaspm5/Algoritmos">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Competitive-programming&theme=dracula" />
   </a>
   <a href="https://github.com/Lucaspm5/Sistemas-de-informacao">
