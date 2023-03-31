@@ -11,17 +11,19 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="42" alt="javascript logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" height="35" width="33" alt="mysql logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="42" alt="javascript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="35" width="28" alt="mysql logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="35" width="33" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="35" width="33" alt="mysql logo"  />
 
 #
 
 
 <div align="center">
   <a href="https://github.com/Lucaspm5/Algoritmos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Competitive-programming&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Algoritmos&theme=dracula" />
   </a>
   <a href="https://github.com/Lucaspm5/Sistemas-de-informacao">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucaspm5&repo=Sistemas-de-informacao&theme=dracula" style="color: #FF1493"/>
