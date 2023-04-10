@@ -1,4 +1,6 @@
-![未来、予測不能。 - イマ｜HAKUHODO I-STUDIO RECRUIT 2015](https://user-images.githubusercontent.com/125845662/230802305-f76741a0-2b46-44e3-b5ca-b51dc35dccb1.png)
+<img src="https://user-images.githubusercontent.com/125845662/230804674-83c2fe1d-5a07-429b-91bd-f0980a7073f2.png" width="300">
+
+
 
 ## Conecte-se comigo em:
 <a href="https://www.hackerrank.com/lucasemanuelpm5" target="_blank">
