@@ -1,3 +1,4 @@
+![download (20)](https://user-images.githubusercontent.com/125845662/230819811-af984925-cb7e-4ad5-80af-50b109de04b2.jpg)
 
 
 ### Olá! Meu nome é Lucas Emanuel e sou estudante de Sistemas na Universidade Federal do Piauí. Meu interesse por programação começou há alguns meses e, atualmente, prático Programação Competitiva como um hobby. Se você também é alguém que se interessa por programação, ficaria feliz em conversar com você, trocar ideias e compartilhar conhecimentos!
