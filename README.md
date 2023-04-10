@@ -1,8 +1,10 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/125845662/230820410-79dbcdd0-ed5f-4f06-84bc-9e610d00208c.gif" alt="exemplo de imagem" width="300" height="300">
+</div>
 
-<img src="https://user-images.githubusercontent.com/125845662/230820410-79dbcdd0-ed5f-4f06-84bc-9e610d00208c.gif" alt="exemplo de imagem" width="300" height="300">
+#
 
-
-### Olá! Meu nome é Lucas Emanuel e sou estudante de Sistemas na Universidade Federal do Piauí. Meu interesse por programação começou há alguns meses e, atualmente, prático Programação Competitiva como um hobby. Se você também é alguém que se interessa por programação, ficaria feliz em conversar com você, trocar ideias e compartilhar conhecimentos!
+### Olá!Meu nome é Lucas Emanuel e sou estudante de Sistemas na Universidade Federal do Piauí. Meu interesse por programação começou há alguns meses e, atualmente, prático Programação Competitiva como um hobby. Se você também é alguém que se interessa por programação, ficaria feliz em conversar com você, trocar ideias e compartilhar conhecimentos!
 
 ## Ferramentas - 
 <div>
