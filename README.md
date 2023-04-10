@@ -6,7 +6,6 @@
   <img src="https://user-images.githubusercontent.com/125845662/230820410-79dbcdd0-ed5f-4f06-84bc-9e610d00208c.gif" alt="exemplo de imagem" width="300" height="300">
 </div>
 
-#
 
 
 ## Ferramentas - 
