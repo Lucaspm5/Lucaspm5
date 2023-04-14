@@ -6,23 +6,6 @@
   <img src="https://user-images.githubusercontent.com/125845662/230820410-79dbcdd0-ed5f-4f06-84bc-9e610d00208c.gif" alt="exemplo de imagem" width="300" height="300">
 </div>
 
-
-
-## Ferramentas - 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40">
-</div>
-
 ## Status - 
 
 <div align="center">
@@ -31,6 +14,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
 </div>
 
+<div style="display: inline_block"><br>
+  	<img align="center" alt="Bruna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+	<img align="center" alt="Bruna-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+	<img align="center" alt="Bruna-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
+	<img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+	<img align="center" alt="Bruna-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/haskell/haskell-original.svg"/>
+  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
   
 <div align="center">
   <h2>Conecte-se comigo em:</h2>
