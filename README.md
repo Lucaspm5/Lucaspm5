@@ -1,11 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=header"/>
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/125845662/230820410-79dbcdd0-ed5f-4f06-84bc-9e610d00208c.gif" alt="exemplo de imagem" width="300" height="300">
-</div>
-
 ## Status - 
 
 <div align="center">
@@ -37,4 +29,3 @@
 </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=DA22FF&height=90&section=footer"/>
