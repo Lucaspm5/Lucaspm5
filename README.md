@@ -5,7 +5,7 @@
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucashanm/">Lucas Emanuel</a></li>
           <li><strong>Formação:</strong> <em>Sistemas de informação - </em> <a href="https://ufpi.br/">UFPI </a> e <em> Técnico em redes de computadores</em> </a></li>
-  <li><strong>Interesses:</strong> <em>Cibersegurança e suas variantes, programação competitiva, de maneira geral tenho grande interesse na temática tecnologia, gosto de acompanhar e aprender sobre diferentes áreas de conhecimento relacionadas a esse tema.</em></li>
+  <li><strong>Interesses:</strong> <em>Cibersegurança e suas variantes, programação competitiva. De maneira geral tenho grande interesse na temática tecnologia, gosto de acompanhar e aprender sobre diferentes áreas de conhecimento relacionadas a esse tema.</em></li>
         </ul>
       <h4><ins>Minhas ferramentas:</ins></h4>
       <ul>
