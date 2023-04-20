@@ -9,13 +9,13 @@
         </ul>
       <h4><ins>Minhas ferramentas:</ins></h4>
       <ul>
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-          <img align="center" alt="Lucaspm5" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-          <img align="center" alt="Lucaspm5" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-          <img align="center" alt="Lucaspm5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+          <img src="https://img.shields.io/badge/C%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
+          <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">  
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+          <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
       </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
           <a href="https://www.hackerrank.com/lucasemanuelpm5">
