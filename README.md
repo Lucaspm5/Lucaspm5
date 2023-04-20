@@ -10,30 +10,21 @@
       <h4><ins>Minhas ferramentas:</ins></h4>
       <ul>
         <li>
-          <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-          <img align="center" alt="Bruna-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-          <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-          <img align="center" alt="Bruna-Js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-          <img align="center" alt="Bruna-Js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+          <img align="center" alt="Lucaspm5" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+          <img align="center" alt="Lucaspm5" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
           <img align="center" alt="Lucaspm5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
         </li>
       </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
-          <a href="https://www.hackerrank.com/elmoallistair"><img src="https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social"/></a>
-          <a href="https://www.hackerrank.com/elmoallistair"><img src="https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social"/></a>
+          <a href="https://www.hackerrank.com/lucasemanuelpm5"><img src="https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social"/></a>
+          <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707t"><img src="https://img.shields.io/badge/--Beecrowd?label=Beecrowd&logo=Beecrowd&style=social"/></a>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-
-  <a href="https://github.com/Lucaspm5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&count_private=true&show_icons=true&theme=synthwave" />
-  </a>
-  <a href="https://github.com/Lucaspm5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&theme=synthwave&layout=compact" />
-  </a>
-</div></a>
-    </td>
+    
   </tr>
 </table>
