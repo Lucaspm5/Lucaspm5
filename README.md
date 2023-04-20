@@ -15,15 +15,13 @@
           <img align="center" alt="Bruna-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
           <img align="center" alt="Bruna-Js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
           <img align="center" alt="Bruna-Js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-          <img align="center" alt="Bruna-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-          <img align="center" alt="Bruna-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+          <img align="center" alt="Lucaspm5" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
         </li>
       </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
-          <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/apple-mail.png"/></a>
-          <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-          <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter-circled.png"/></a>
-          <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
+          <a href="https://www.hackerrank.com/elmoallistair"><img src="https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social"/></a>
+          <a href="https://www.hackerrank.com/elmoallistair"><img src="https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social"/></a>
     </td>
   </tr>
   <tr>
