@@ -5,7 +5,7 @@
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucashanm/">Lucas Emanuel</a></li>
           <li><strong>Formação:</strong> <em>Sistemas de informação - </em> <a href="https://ufpi.br/">UFPI </a> e <em> Técnico em redes de computadores</em> </a></li>
-  <li><strong>Interesses:</strong> <em>Cibersegurança e suas variantes</em></li>
+  <li><strong>Interesses:</strong> <em>Cibersegurança e suas variantes, programação competitiva, de maneira geral tenho grande interesse na temática tecnologia, gosto de acompanhar e aprender sobre diferentes áreas de conhecimento relacionadas a esse tema.</em></li>
         </ul>
       <h4><ins>Minhas ferramentas:</ins></h4>
       <ul>
@@ -19,7 +19,7 @@
           <img align="center" alt="Bruna-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
         </li>
       </ul>
-        <h4><ins>Connect with me:</ins></h4>
+        <h4><ins>Conecte-se comigo:</ins></h4>
           <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/apple-mail.png"/></a>
           <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
           <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter-circled.png"/></a>
@@ -28,8 +28,14 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <p><i>If you appreciate what I do and wish to support my work, you can consider buying me a coffee ☕</i></p>
-      <a href="https://www.buymeacoffee.com/tahanima" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+  <a href="https://github.com/Lucaspm5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&count_private=true&show_icons=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/Lucaspm5">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&theme=github_dark&layout=compact" />
+  </a>
+</div></a>
     </td>
   </tr>
 </table>
