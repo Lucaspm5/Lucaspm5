@@ -30,10 +30,10 @@
     <td align="center" colspan="2">
 
   <a href="https://github.com/Lucaspm5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&count_private=true&show_icons=true&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaspm5&count_private=true&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/Lucaspm5">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&theme=github_dark&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspm5&theme=synthwave&layout=compact" />
   </a>
 </div></a>
     </td>
