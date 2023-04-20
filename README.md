@@ -20,7 +20,7 @@
         </li>
       </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
-          <a href="https://www.hackerrank.com/lucasemanuelpm5"><img src="https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social"/></a>
+          <a href="https://www.hackerrank.com/lucasemanuelpm5"><img src="https://img.shields.io/badge/--hackerank?label=HackRank&logo=hackerank&style=social"/></a>
           <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707t"><img src="https://img.shields.io/badge/--Beecrowd?label=Beecrowd&logo=Beecrowd&style=social"/></a>
     </td>
   </tr>
