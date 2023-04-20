@@ -24,7 +24,4 @@
           <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707t"><img src="https://img.shields.io/badge/--Beecrowd?label=Beecrowd&logo=Beecrowd&style=social"/></a>
     </td>
   </tr>
-  <tr>
-    
-  </tr>
 </table>
