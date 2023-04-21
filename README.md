@@ -15,8 +15,8 @@
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"/>
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+          <img align="center" alt="Lucaspm5" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+          <img align="center" alt="Lucaspm5" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
         </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
           <a href="https://www.hackerrank.com/lucasemanuelpm5"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
