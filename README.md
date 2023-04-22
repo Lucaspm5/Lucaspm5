@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/c360f03e-bb60-4b6d-9bec-5635ad3dd73d.svg)](https://wakatime.com/@c360f03e-bb60-4b6d-9bec-5635ad3dd73d)
+
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/125845662/233684297-21ed8176-3050-45e9-b842-fc64c910770a.gif" width="300"></td>
