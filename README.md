@@ -1,4 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/c360f03e-bb60-4b6d-9bec-5635ad3dd73d.svg)](https://wakatime.com/@c360f03e-bb60-4b6d-9bec-5635ad3dd73d)
 
 <table>
   <tr>
@@ -30,3 +29,5 @@
     </td>
   </tr>
 </table>
+
+[![wakatime](https://wakatime.com/badge/user/c360f03e-bb60-4b6d-9bec-5635ad3dd73d.svg)](https://wakatime.com/@c360f03e-bb60-4b6d-9bec-5635ad3dd73d)
