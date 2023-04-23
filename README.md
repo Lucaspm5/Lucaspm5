@@ -23,15 +23,13 @@
           <a href="https://www.hackerrank.com/lucasemanuelpm5">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white&labelColor=05122A" alt="HackerRank">
 </a>
+
+<a href="https://leetcode.com/Lucaspm5/">
+  <img src="https://img.shields.io/badge/Leetcode-FFA500?style=flat&logo=Beecrowd&logoColor=black&labelColor=FFFFFF" alt="Leetcode" style="vertical-align:top; margin:4px">
+</a>
           <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707t">
-  <img src="https://img.shields.io/badge/Beecrowd-FFFF00?style=flat&logo=Beecrowd&logoColor=black&labelColor=FFFF00" alt="BeeCrowd" style="vertical-align:top; margin:4px; color:white">
+  <img src="https://img.shields.io/badge/Beecrowd-FFA500?style=flat&logo=Beecrowd&logoColor=black&labelColor=FFFF00" alt="BeeCrowd" style="vertical-align:top; margin:4px;">
 </a>
-
-  
-  <a href="https://leetcode.com/Lucaspm5/">
-  <img src="https://img.shields.io/badge/Leetcode-FFA500?style=flat&logo=Beecrowd&logoColor=black&labelColor=FFA500" alt="Leetcode" style="vertical-align:top; margin:4px">
-</a>
-
      
 </a>
     </td>
