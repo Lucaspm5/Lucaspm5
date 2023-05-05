@@ -12,11 +12,6 @@
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"/>
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-          <img align="center" alt="Lucaspm5" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-          <img align="center" alt="Lucaspm5" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
         </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
           <a href="https://www.hackerrank.com/lucasemanuelpm5?hr_r=1" target="_blank">
