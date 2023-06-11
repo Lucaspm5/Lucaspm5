@@ -1,6 +1,10 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicon@2/devicon-2.14.0.min.css">
+
+<i class="devicon-c-plain"></i>
+
 <table>
   <tr>
-    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/bcc37daf-3a1e-4e3b-9ff1-33d49769dabb" width="550"></td>
+    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/bcc37daf-3a1e-4e3b-9ff1-33d49769dabb" width="600"></td>
     <td>
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucashanm/">Lucas Emanuel</a></li>
@@ -9,8 +13,8 @@
         </ul>
         <h4><ins>Minhas ferramentas:</ins></h4>
         <ul>
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
         </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
