@@ -1,10 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicon@2/devicon-2.14.0.min.css">
-
 <i class="devicon-c-plain"></i>
 
 <table>
   <tr>
-    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/bcc37daf-3a1e-4e3b-9ff1-33d49769dabb" width="500"></td>
+    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/18847f4b-3e2f-4a7e-a7a7-ae08988cdc4d" width="500"></td>
     <td>
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucashanm/">Lucas Emanuel</a></li>
