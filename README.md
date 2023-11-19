@@ -16,18 +16,16 @@
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
         </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
-          <a href="https://www.hackerrank.com/lucasemanuelpm5?hr_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge_&logo=hackerrank&logoColor=white" alt="HackerRank Badge">
-  </a>
+          <a href="https://codeforces.com/profile/Lucas_Emanuel" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge_&logo=codeforces&logoColor=white" alt="Codeforces Badge">
+</a>
+    <a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707" target="_blank">
+    <img src="https://img.shields.io/badge/BeeCrowd-1B1E34?style=for-the-badge_&logo=BeeCrowd&logoColor=white" alt="BeeCrowd Badge">
+</a>
 
-  <a href="https://leetcode.com/Lucaspm5/" target="_blank">
+<a href="https://leetcode.com/Lucaspm5/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge_&logo=leetcode&logoColor=white" alt="LeetCode Badge">
   </a>
-          
-<a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707" target="_blank">
-    <img src="https://img.shields.io/badge/BeeCrowd-1B1E34?style=for-the-badge_&logo=BeeCrowd&logoColor=white" alt="BeeCrowd Badge">
-  </a>
-
      
 </a>
     </td>
