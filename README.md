@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/a164ab5f-e6ed-46c7-9ad8-48203a171954" width="250"></td>
+    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/b8dffd1f-49fa-471f-ab42-c2d83ebb66de" width="700"></td>
     <td>
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucashanm/">Lucas Emanuel</a></li>
@@ -19,6 +19,11 @@
           <a href="https://codeforces.com/profile/Lucas_Emanuel" target="_blank">
     <img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge_&logo=codeforces&logoColor=white" alt="Codeforces Badge">
 </a> 
+      <a href="https://www.beecrowd.com.br/judge/pt/users/statistics/717707" target="_blank">
+    <img src="https://img.shields.io/badge/-BeeCrowd-yellow?style=for-the-badge_&logo=beecrowd&logoColor=white" alt="BeeCrowd Badge">
+</a>
+
+
 </a>
     </td>
   </tr>
