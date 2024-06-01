@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/b443e9a5-4d7e-4bf8-9e9d-e67daee4d39a" width="800"></td>
+    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/a62085cd-565b-40b8-8a11-536e77a026ed" width="800"></td>
     <td>
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucas_mpw00/">Lucas Emanuel</a></li>
