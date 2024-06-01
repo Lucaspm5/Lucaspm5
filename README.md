@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/b9326b73-e559-4202-9ea2-e9dabee22d18" width="500"></td>
+    <td><img src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/b443e9a5-4d7e-4bf8-9e9d-e67daee4d39a" width="800"></td>
     <td>
         <ul>
-          <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucashanm/">Lucas Emanuel</a></li>
-          <li><strong>Formação:</strong> <em>Sistemas de informação - </em> <a href="https://ufpi.br/">UFPI </a> e <em> Técnico em redes de computadores</em> </a></li>
-          <li><strong>Interesses:</strong> <em>Programação competitiva. De maneira geral tenho grande interesse na temática tecnologia, gosto de acompanhar e aprender sobre diferentes áreas de conhecimento relacionadas a esse tema.</em></li>
+          <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucas_mpw00/">Lucas Emanuel</a></li>
+          <li><strong>Formação:</strong> <em>Sistemas de informação e Técnico em redes de computadores</em> </a></li>
+          <li><strong>Interesses:</strong> <em>Programação competitiva. De maneira geral tenho grande interesse na temática tecnologia, gosto de acompanhar e aprender sobre diferentes áreas da T.I.</em></li>
         </ul>
         <h4><ins>Minhas ferramentas:</ins></h4>
         <ul>
