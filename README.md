@@ -11,9 +11,10 @@
         </ul>
         <h4><ins>Minhas ferramentas:</ins></h4>
         <ul>
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
           <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/db83bd90-cd54-47f3-a7c2-955bfcb8baa6">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/a6f25c48-0038-4db3-8a62-1d529305c3ca">
         </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
           <a href="https://codeforces.com/profile/Lucas_Emanuel" target="_blank">
@@ -22,8 +23,6 @@
       <a href="https://www.beecrowd.com.br/judge/pt/users/statistics/717707" target="_blank">
     <img src="https://img.shields.io/badge/-BeeCrowd-yellow?style=for-the-badge_&logo=beecrowd&logoColor=white" alt="BeeCrowd Badge">
 </a>
-
-
 </a>
     </td>
   </tr>
