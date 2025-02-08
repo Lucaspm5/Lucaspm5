@@ -3,7 +3,7 @@
     <td><img src="https://github.com/user-attachments/assets/553b4880-2a11-4038-ba5f-a94297173ba8" width="230"></td>
     <td>
         <ul>
-          <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucas_mpw00/">Lucas Emanuel</a></li>
+          <li><strong>Nome:</strong> <a href="https://www.instagram.com/_lucasemn/">Lucas Emanuel</a></li>
           <li><strong>Formação:</strong> <em>Sistemas de Informação e Técnico em Redes de Computadores</em></li>
           <li><strong>Interesses:</strong> <em>Programação competitiva e desenvolvimento back-end.</em></li>
           <li><strong>Status:</strong> <em>Atualmente iniciando meus estudos em desenvolvimento back-end.</em></li>
