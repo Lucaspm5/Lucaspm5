@@ -15,12 +15,12 @@
           <img align="center" alt="Outras Ferramentas" height="30" width="40" src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/db83bd90-cd54-47f3-a7c2-955bfcb8baa6">
         </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
-        <a href="https://codeforces.com/profile/Lucas_Emanuel" target="_blank">
-          <img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge">
-        </a> 
-        <a href="https://www.beecrowd.com.br/judge/pt/users/statistics/717707" target="_blank">
-          <img src="https://img.shields.io/badge/-BeeCrowd-yellow?style=for-the-badge&logo=beecrowd&logoColor=white" alt="BeeCrowd Badge">
-        </a>
+       <a href="https://codeforces.com/profile/Lucas_Emanuel" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge_&logo=codeforces&logoColor=white" alt="Codeforces Badge">
+</a> 
+      <a href="https://www.beecrowd.com.br/judge/pt/users/statistics/717707" target="_blank">
+    <img src="https://img.shields.io/badge/-BeeCrowd-yellow?style=for-the-badge_&logo=beecrowd&logoColor=white" alt="BeeCrowd Badge">
+</a>
     </td>
   </tr>
 </table>
