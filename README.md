@@ -5,8 +5,8 @@
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/_lucasemn/">Lucas Emanuel</a></li>
           <li><strong>Formação:</strong> <em>Sistemas de Informação e Técnico em Redes de Computadores</em></li>
-          <li><strong>Interesses:</strong> <em>Programação competitiva e desenvolvimento back-end.</em></li>
-          <li><strong>Status:</strong> <em>Atualmente iniciando meus estudos em desenvolvimento back-end.</em></li>
+          <li><strong>Interesses:</strong> <em>Programação competitiva e Data Science.</em></li>
+          <li><strong>Status:</strong> <em>Atualmente iniciando meus estudos em Data Science.</em></li>
         </ul>
         <h4><ins>Ferramentas e Tecnologias:</ins></h4>
         <ul>
