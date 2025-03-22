@@ -11,8 +11,10 @@
         <h4><ins>Ferramentas e Tecnologias:</ins></h4>
         <ul>
           <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+          <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+          <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
           <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-          <img align="center" alt="Outras Ferramentas" height="30" width="40" src="https://github.com/Lucaspm5/Lucaspm5/assets/125845662/db83bd90-cd54-47f3-a7c2-955bfcb8baa6">
+          <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
         </ul>
         <h4><ins>Conecte-se comigo:</ins></h4>
        <a href="https://codeforces.com/profile/Lucas_Emanuel" target="_blank">
