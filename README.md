@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/553b4880-2a11-4038-ba5f-a94297173ba8" width="230"></td>
+    <td><img src="https://github.com/user-attachments/assets/a1e3401b-1edc-4dc1-ae29-2c50341a4cb1" width="300"></td>
     <td>
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/_lucasemn/">Lucas Emanuel</a></li>
